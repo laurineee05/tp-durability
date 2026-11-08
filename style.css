@@ -29,3 +29,6 @@ table, th, td {border: 1.5px solid grey;
     }
 th {color: darkblue;
     background-color: rgb(206, 219, 230);}    
+
+header{background-color: darkblue;
+}
