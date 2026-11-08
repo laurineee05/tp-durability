@@ -23,7 +23,7 @@ a:hover {color: darkorchid;
 img {max-width: max-content;
     border-radius: 10%;
 }
-table, th, td {border: 2px solid grey;
+table, th, td {border: 1.5px solid grey;
     border-collapse: collapse;
     padding: 10px;
     }
