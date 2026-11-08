@@ -46,3 +46,6 @@ section {background-color: white;
     border-radius: 15px;
     box-shadow: 5px 5px rgb(193, 193, 193);
 }
+
+.intro {text-shadow: 0.5px 0.5px 1px rgb(1, 1, 148);
+}
