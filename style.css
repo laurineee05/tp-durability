@@ -26,12 +26,16 @@ img {max-width: max-content;
 table, th, td {border: 1.5px solid grey;
     border-collapse: collapse;
     padding: 10px;
-    }
+}
 th {color: darkblue;
-    background-color: rgb(206, 219, 230);}    
-
+    background-color: rgb(206, 219, 230);
+}  
 header{background-color: darkblue;
     color: aliceblue;
     text-align: center;
     padding: 5px;
 }
+header h1 {background-color: darkblue;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;}
