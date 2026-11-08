@@ -44,4 +44,5 @@ section {background-color: white;
     padding: 25px;
     margin: 30px;
     border-radius: 15px;
+    box-shadow: 5px 5px rgb(193, 193, 193);
 }
