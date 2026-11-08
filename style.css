@@ -21,4 +21,5 @@ a {color: dodgerblue;
 a:hover {color: darkorchid;
 }
 img {max-width: max-content;
+    border-radius: 10%;
 }
