@@ -25,4 +25,5 @@ img {max-width: max-content;
 }
 table, th, td {border: 2px solid grey;
     border-collapse: collapse;
+    padding: 10px;
     }
