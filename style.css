@@ -39,3 +39,6 @@ header{background-color: darkblue;
 header h1 {color: aliceblue;
     text-align: center;
     padding: 5px;}
+
+section {background-color: white;
+}
