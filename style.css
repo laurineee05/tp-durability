@@ -35,7 +35,6 @@ header{background-color: darkblue;
     text-align: center;
     padding: 5px;
 }
-header h1 {background-color: darkblue;
-    color: aliceblue;
+header h1 {color: aliceblue;
     text-align: center;
     padding: 5px;}
