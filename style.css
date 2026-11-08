@@ -17,6 +17,7 @@ h2 {color: darkblue;
 }
 a {color: dodgerblue;
     text-decoration: underline;
+    transition: color 2s;
 }
 a:hover {color: darkorchid;
 }
