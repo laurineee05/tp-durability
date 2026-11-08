@@ -30,6 +30,8 @@ table, th, td {border: 1.5px solid grey;
 th {color: darkblue;
     background-color: rgb(206, 219, 230);
 }  
+tr:nth-child(even){background-color: rgb(237, 242, 245);
+}
 header{background-color: darkblue;
     color: aliceblue;
     text-align: center;
