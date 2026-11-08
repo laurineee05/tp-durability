@@ -55,3 +55,6 @@ section {background-color: white;
 footer {text-align: center;
     color: dimgrey;
 }
+
+li::marker {color: darkblue;
+}
