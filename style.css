@@ -59,3 +59,26 @@ footer {text-align: center;
 
 li::marker {color: darkblue;
 }
+
+.outils {
+position: fixed;
+top: 12px;
+right: 12px;
+display: flex;
+flex-direction: column;
+gap: 6px;
+padding: 10px;
+background-color: white;
+border-radius: 8px;
+}
+body.sombre {
+    background-color: rgb(48, 58, 66);
+    color:rgb(232, 232, 236)
+}
+.sombre h2 {
+    color :#9fb9e1;
+}
+
+section.sombre {
+    background-color: darkslategray;
+}
