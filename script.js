@@ -36,3 +36,6 @@ if
     salutation.textContent ="Bonsoir, bonne lecture !";
   }
 
+const POIDS_PAGE_MO = 2
+const nombre = document.querySelector("#pages-par-jour");
+const resultat = document.querySelector("#resultat");
