@@ -41,4 +41,16 @@ const nombre = document.querySelector("#pages-par-jour");
 const resultat = document.querySelector("#resultat");
 document.querySelector("#bouton-calculer").addEventListener("click", function(){
   let nombrepages = Number(document.querySelector("#pages-par-jour").value);
+  let poids = Math.round(0.73 * nombrepages);
+  let message = "Votre consommatiom est de " + poids + "Go par an. ";
+  if (poids < 10){
+    message = message + "Vous ne consommez pas beaucoup !"; 
+  }
+  else if (poids < 50){
+    message = message + "Vous avez une consommation moyenne !";
+  }
+  else {
+    message = message + "Vous consommmez beaucoup !"; 
+  }
+  resultat.textContent = message;
 })
