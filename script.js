@@ -39,3 +39,6 @@ if
 const POIDS_PAGE_MO = 2
 const nombre = document.querySelector("#pages-par-jour");
 const resultat = document.querySelector("#resultat");
+document.querySelector("#bouton-calculer").addEventListener("click", function(){
+  let nombrepages = Number(document.querySelector("#pages-par-jour").value);
+})
